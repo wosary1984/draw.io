@@ -1,1 +1,46 @@
-<mxfile host="www.draw.io" modified="2019-10-29T05:50:08.081Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" version="12.1.8" etag="gxzSImQsBBm4qcqeR1yk" type="github"><diagram id="xsiGQ0o9Yv8s01VBb9F1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-29T06:02:39.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="x1ewVQPcO_RI4q0d5s2l" version="12.1.8" type="github" pages="1">
+  <diagram id="xsiGQ0o9Yv8s01VBb9F1" name="Page-1">
+    <mxGraphModel dx="1123" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="C2xm1iCQP3U-VCesAjYq-1" value="Mainland China" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;horizontal=1;verticalAlign=top;shadow=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="730" height="390" as="geometry"/>
+        </mxCell>
+        <mxCell id="C2xm1iCQP3U-VCesAjYq-2" value="&lt;span style=&quot;white-space: normal; font-size: 16px;&quot;&gt;Beijing Sports University&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;horizontal=1;verticalAlign=middle;shadow=0;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="200" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="C2xm1iCQP3U-VCesAjYq-9" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;rounded=1;strokeWidth=1;fontSize=16;imageBackground=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="220" y="365" width="54.6" height="70.19999999999999" as="geometry"/>
+        </mxCell>
+        <mxCell id="C2xm1iCQP3U-VCesAjYq-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_read_replica;fillColor=#2E73B8;gradientColor=none;rounded=1;shadow=0;strokeWidth=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="369" width="49.5" height="66" as="geometry"/>
+        </mxCell>
+        <mxCell id="C2xm1iCQP3U-VCesAjYq-11" value="Sports One" style="text;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="286.5" y="435" width="87" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="C2xm1iCQP3U-VCesAjYq-12" value="&lt;span style=&quot;white-space: normal ; font-size: 16px&quot;&gt;Azure China(CN)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;horizontal=1;verticalAlign=middle;shadow=0;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="200" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="C2xm1iCQP3U-VCesAjYq-13" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="325" as="sourcePoint"/>
+            <mxPoint x="620" y="325" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C2xm1iCQP3U-VCesAjYq-14" value="Media" style="text;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="290" width="65" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="C2xm1iCQP3U-VCesAjYq-15" value="&lt;span style=&quot;white-space: normal ; font-size: 16px&quot;&gt;Haiqiu( Data Provider)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;horizontal=1;verticalAlign=middle;shadow=0;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="110" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="C2xm1iCQP3U-VCesAjYq-16" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=16;width=12;startSize=6.33;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="180" as="sourcePoint"/>
+            <mxPoint x="300" y="280" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
