@@ -1,14 +1,14 @@
-<mxfile host="www.draw.io" modified="2019-11-18T01:36:13.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="TVHQG67yfwAv1bqa3p3z" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T01:39:05.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="l_yCbDQrm8BYC--5p4s5" version="12.2.6" type="github" pages="1">
   <diagram id="Ty7VeFaSjmbMnnNTwiSE" name="Page-1">
-    <mxGraphModel dx="857" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="857" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-25" value="SGAS Service" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;verticalAlign=top;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="50" width="820" height="240" as="geometry"/>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-25" value="SGAS Service" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-30" width="820" height="320" as="geometry"/>
         </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-26" value="Sports One Connection" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="110" y="150" width="170" height="50" as="geometry"/>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-26" value="Tomcat Container" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=12;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="90" width="760" height="110" as="geometry"/>
         </mxCell>
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-27" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="110" y="210" width="760" height="60" as="geometry"/>
@@ -43,7 +43,7 @@
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-10" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-30">
           <mxGeometry x="163" y="35" width="60" height="24" as="geometry"/>
         </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-31" value="Sports One App" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;align=center;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-32">
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-31" value="Sports One App" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=12;align=center;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-32">
           <mxGeometry x="15" y="55" width="225" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-33" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -73,7 +73,7 @@
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-41" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-35">
           <mxGeometry x="163" y="35" width="60" height="24" as="geometry"/>
         </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-42" value="Sports One App" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;align=center;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-33">
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-42" value="Sports One App" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=12;align=center;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-33">
           <mxGeometry x="15" y="55" width="225" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-43" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -103,7 +103,7 @@
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-51" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-45">
           <mxGeometry x="163" y="35" width="60" height="24" as="geometry"/>
         </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-52" value="Sports One App" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;align=center;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-43">
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-52" value="Sports One App" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=12;align=center;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-43">
           <mxGeometry x="15" y="55" width="225" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-53" value="log" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
