@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2019-11-18T01:58:45.862Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="VAqXlc-shNcF5F5ORrq_" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T01:59:38.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="1fI7TOwr8MYVAwt2pzre" version="12.2.6" type="github" pages="1">
   <diagram id="Ty7VeFaSjmbMnnNTwiSE" name="Page-1">
     <mxGraphModel dx="857" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-25" value="SGAS Service(Java Project)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-25" value="SGAS Service(Java Project)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;verticalAlign=top;arcSize=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="-30" width="820" height="320" as="geometry"/>
         </mxCell>
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-27" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;fontSize=16;" vertex="1" parent="1">
@@ -232,13 +232,13 @@
             <mxPoint x="449.9999999999999" y="170" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-82" value="SGAS Service App(Angular Project)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;verticalAlign=top;arcSize=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-82" value="SGAS Service App(Angular Project)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;verticalAlign=top;arcSize=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="-250" width="290" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-84" value="Static Resource" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="100" y="-200" width="250" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-85" value="Wechat" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;verticalAlign=middle;arcSize=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-85" value="Wechat" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;verticalAlign=middle;arcSize=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="-250" width="420" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-86" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=12;align=center;" vertex="1" parent="1">
