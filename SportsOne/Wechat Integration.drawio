@@ -1,54 +1,9 @@
-<mxfile host="www.draw.io" modified="2019-11-18T01:33:46.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="mwp7zp8rnhpk4O5fWMLH" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T01:35:10.608Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="KSzBdMV6Asz__3UbzzFh" version="12.2.6" type="github" pages="1">
   <diagram id="Ty7VeFaSjmbMnnNTwiSE" name="Page-1">
     <mxGraphModel dx="857" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-1" value="BSU&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;a href=&quot;https://s1.bsu.edu.cn/&quot; class=&quot;external-link&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;https://s1.bsu.edu.cn/&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fontSize=16;align=left;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="410" width="260" height="200" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-11" value="NMZY Sports One(&lt;a href=&quot;https://huhhot.bsu.edu.cn/&quot; class=&quot;external-link&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;https://huhhot.bsu.edu.cn/&lt;/a&gt;)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="360" y="410" width="260" height="140" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="373" y="470" width="240" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-13" value="FND" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="400" y="476" width="60" height="24" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-14" value="TRM" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="470" y="476" width="60" height="24" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-15" value="MED" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="540" y="476" width="60" height="24" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-16" value="Performance" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="400" y="505" width="130" height="24" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-17" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="540" y="505" width="60" height="24" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-18" value="CFA Sports One(&lt;a href=&quot;https://nt.bsu.edu.cn/&quot; class=&quot;external-link&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;https://nt.bsu.edu.cn/&lt;/a&gt;)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="640" y="406" width="260" height="140" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-19" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="653" y="466" width="240" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-20" value="FND" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="680" y="472" width="60" height="24" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-21" value="TRM" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="750" y="472" width="60" height="24" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-22" value="MED" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="820" y="472" width="60" height="24" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-23" value="Performance" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="680" y="501" width="130" height="24" as="geometry"/>
-        </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-24" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="820" y="501" width="60" height="24" as="geometry"/>
-        </mxCell>
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-25" value="SGAS Service" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="80" y="50" width="820" height="240" as="geometry"/>
         </mxCell>
@@ -61,8 +16,14 @@
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-28" value="Wechat Binding" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="150" y="220" width="130" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-30" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="90" y="530" width="240" height="70" as="geometry"/>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="400" width="260" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-1" value="BSU&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;a href=&quot;https://s1.bsu.edu.cn/&quot; class=&quot;external-link&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;https://s1.bsu.edu.cn/&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fontSize=16;align=left;arcSize=0;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-32">
+          <mxGeometry width="260" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-30" value="" style="group" vertex="1" connectable="0" parent="rK1L7pS0zqMWwbK4X8Iv-32">
+          <mxGeometry x="10" y="120" width="240" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;fontSize=16;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-30">
           <mxGeometry width="240" height="70" as="geometry"/>
@@ -82,8 +43,68 @@
         <mxCell id="rK1L7pS0zqMWwbK4X8Iv-10" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-30">
           <mxGeometry x="163" y="35" width="60" height="24" as="geometry"/>
         </mxCell>
-        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-31" value="Sports One App" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="95" y="465" width="225" height="45" as="geometry"/>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-31" value="Sports One App" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;align=center;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-32">
+          <mxGeometry x="15" y="55" width="225" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="400" width="260" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-34" value="NMZY&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;a href=&quot;https://huhhot.bsu.edu.cn/&quot; class=&quot;external-link&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;https://huhhot.bsu.edu.cn/&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fontSize=16;align=left;arcSize=0;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-33">
+          <mxGeometry width="260" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-35" value="" style="group" vertex="1" connectable="0" parent="rK1L7pS0zqMWwbK4X8Iv-33">
+          <mxGeometry x="10" y="120" width="240" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-36" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;fontSize=16;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-35">
+          <mxGeometry width="240" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-37" value="FND" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-35">
+          <mxGeometry x="23" y="6" width="60" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-38" value="TRM" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-35">
+          <mxGeometry x="93" y="6" width="60" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-39" value="MED" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-35">
+          <mxGeometry x="163" y="6" width="60" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-40" value="Performance" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-35">
+          <mxGeometry x="23" y="35" width="130" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-41" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-35">
+          <mxGeometry x="163" y="35" width="60" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-42" value="Sports One App" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;align=center;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-33">
+          <mxGeometry x="15" y="55" width="225" height="45" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-43" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="640" y="400" width="260" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-44" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;CFA&lt;br&gt;&lt;/span&gt;&lt;a href=&quot;https://nt.bsu.edu.cn/&quot; class=&quot;external-link&quot; style=&quot;color: rgb(59 , 115 , 175) ; font-size: 14px ; background-color: rgb(255 , 255 , 255)&quot;&gt;https://nt.bsu.edu.cn/&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;fontSize=16;align=left;arcSize=0;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-43">
+          <mxGeometry width="260" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-45" value="" style="group" vertex="1" connectable="0" parent="rK1L7pS0zqMWwbK4X8Iv-43">
+          <mxGeometry x="10" y="120" width="240" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-46" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;fontSize=16;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-45">
+          <mxGeometry width="240" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-47" value="FND" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-45">
+          <mxGeometry x="23" y="6" width="60" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-48" value="TRM" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-45">
+          <mxGeometry x="93" y="6" width="60" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-49" value="MED" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-45">
+          <mxGeometry x="163" y="6" width="60" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-50" value="Performance" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-45">
+          <mxGeometry x="23" y="35" width="130" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-51" value="..." style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-45">
+          <mxGeometry x="163" y="35" width="60" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="rK1L7pS0zqMWwbK4X8Iv-52" value="Sports One App" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;align=center;" vertex="1" parent="rK1L7pS0zqMWwbK4X8Iv-43">
+          <mxGeometry x="15" y="55" width="225" height="45" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
