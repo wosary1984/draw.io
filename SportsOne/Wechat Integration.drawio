@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-29T07:32:27.625Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="PaWqcRjft6CEWHp5qTmp" version="12.3.3" type="github" pages="6">
+<mxfile host="www.draw.io" modified="2019-11-29T07:41:46.828Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="l39YYu8dYqeQbMDL1V52" version="12.3.3" type="github" pages="7">
   <diagram id="Ty7VeFaSjmbMnnNTwiSE" name="overall">
-    <mxGraphModel dx="1297" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1297" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -497,7 +497,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OuQU2FrvpQjLrOJefTZE" name="model">
-    <mxGraphModel dx="1297" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1297" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rDR5diKka1ridKyBvP_F-0"/>
         <mxCell id="rDR5diKka1ridKyBvP_F-1" parent="rDR5diKka1ridKyBvP_F-0"/>
@@ -679,7 +679,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SjKla1WutFIo-oXdoB90" name="binding">
-    <mxGraphModel dx="935" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1297" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q2qACDNXgOADPyDZMA9G-0"/>
         <mxCell id="q2qACDNXgOADPyDZMA9G-1" parent="q2qACDNXgOADPyDZMA9G-0"/>
@@ -1085,6 +1085,50 @@
         </mxCell>
         <mxCell id="MDTk4ZcQ6rBLVEDwOZFb-24" value="Wechat OAuth2.0 Sign On" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=50;" vertex="1" parent="bmuIKhOemOlNuMsYZkc_-1">
           <mxGeometry x="302.5" y="660" width="150" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YZXJhaYy21J50GraZ2Hq" name="auth">
+    <mxGraphModel dx="1297" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="buW-JTlhOMnNf-kGWzNA-0"/>
+        <mxCell id="buW-JTlhOMnNf-kGWzNA-1" parent="buW-JTlhOMnNf-kGWzNA-0"/>
+        <mxCell id="buW-JTlhOMnNf-kGWzNA-4" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 24px&quot;&gt;Service&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;" vertex="1" parent="buW-JTlhOMnNf-kGWzNA-1">
+          <mxGeometry x="230" y="50" width="370" height="390" as="geometry"/>
+        </mxCell>
+        <mxCell id="buW-JTlhOMnNf-kGWzNA-2" value="Survey" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.page;" vertex="1" parent="buW-JTlhOMnNf-kGWzNA-1">
+          <mxGeometry x="30" y="97.5" width="140" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="buW-JTlhOMnNf-kGWzNA-3" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 24px&quot;&gt;认证authentication&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="buW-JTlhOMnNf-kGWzNA-1">
+          <mxGeometry x="320" y="105" width="160" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="buW-JTlhOMnNf-kGWzNA-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="buW-JTlhOMnNf-kGWzNA-1" source="buW-JTlhOMnNf-kGWzNA-2" target="buW-JTlhOMnNf-kGWzNA-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="260" as="sourcePoint"/>
+            <mxPoint x="160" y="220" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buW-JTlhOMnNf-kGWzNA-6" value="&lt;h2 class=&quot;wordbook-js&quot; style=&quot;margin: 23px 10px 25px 5px ; padding: 0px ; position: relative ; zoom: 1 ; color: rgb(51 , 51 , 51) ; font-size: 24px ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;span class=&quot;keyword&quot; style=&quot;font-weight: normal&quot;&gt;授权authorization&lt;/span&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="buW-JTlhOMnNf-kGWzNA-1">
+          <mxGeometry x="320" y="230" width="160" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="buW-JTlhOMnNf-kGWzNA-7" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 24px&quot;&gt;S1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;verticalAlign=top;" vertex="1" parent="buW-JTlhOMnNf-kGWzNA-1">
+          <mxGeometry x="790" y="50" width="400" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="buW-JTlhOMnNf-kGWzNA-8" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 24px&quot;&gt;认证authentication&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="buW-JTlhOMnNf-kGWzNA-1">
+          <mxGeometry x="820" y="105" width="150" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="buW-JTlhOMnNf-kGWzNA-9" value="&lt;h2 class=&quot;wordbook-js&quot; style=&quot;margin: 23px 10px 25px 5px ; padding: 0px ; position: relative ; zoom: 1 ; color: rgb(51 , 51 , 51) ; font-size: 24px ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;span class=&quot;keyword&quot; style=&quot;font-weight: normal&quot;&gt;授权authorization&lt;/span&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="buW-JTlhOMnNf-kGWzNA-1">
+          <mxGeometry x="1020" y="105" width="160" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="buW-JTlhOMnNf-kGWzNA-10" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=arc;" edge="1" parent="buW-JTlhOMnNf-kGWzNA-1" source="buW-JTlhOMnNf-kGWzNA-3" target="buW-JTlhOMnNf-kGWzNA-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="153" as="sourcePoint"/>
+            <mxPoint x="270" y="152.5" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="buW-JTlhOMnNf-kGWzNA-13" value="&lt;h2 class=&quot;wordbook-js&quot; style=&quot;margin: 23px 10px 25px 5px ; padding: 0px ; position: relative ; zoom: 1 ; color: rgb(51 , 51 , 51) ; font-size: 24px ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;span class=&quot;keyword&quot; style=&quot;font-weight: normal&quot;&gt;业务处理Business&lt;/span&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="buW-JTlhOMnNf-kGWzNA-1">
+          <mxGeometry x="320" y="355" width="160" height="75" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
