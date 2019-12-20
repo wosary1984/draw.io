@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-20T07:46:24.511Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="5K31-I7Cb8kT42_A0OYf" version="12.4.3" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2019-12-20T07:55:22.883Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="LI3QtNvzmAO0fL86p-6f" version="12.4.3" type="github" pages="8">
   <diagram id="Ty7VeFaSjmbMnnNTwiSE" name="overall">
     <mxGraphModel dx="1058" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1218,7 +1218,7 @@
         <mxCell id="qK6Xwawspel4ECdae6aD-15" value="" style="group" vertex="1" connectable="0" parent="LFbkBpNkvyEO6I9I7DGO-1">
           <mxGeometry x="120" y="240" width="310" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-16" value="&lt;a href=&quot;https://s1-dev.bsu.edu.cn/&quot;&gt;https://s1-dev.bsu.edu.cn/&lt;a href=&quot;https://s1-service-dev.bsu.edu.cn/&quot; style=&quot;font-size: 10.5pt&quot;&gt;/&lt;/a&gt;&lt;span style=&quot;font-size: 10.5pt ; color: rgb(0 , 0 , 0)&quot;&gt;sap/haha/ide&lt;/span&gt;&lt;br&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=top;align=left;horizontal=1;" vertex="1" parent="qK6Xwawspel4ECdae6aD-15">
+        <mxCell id="qK6Xwawspel4ECdae6aD-16" value="&lt;a href=&quot;https://s1-dev.bsu.edu.cn/&quot;&gt;https://s1-dev.bsu.edu.cn/&lt;/a&gt;&lt;span style=&quot;font-size: 10.5pt ; color: rgb(0 , 0 , 0)&quot;&gt;sap/haha/ide&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=top;align=left;horizontal=1;" vertex="1" parent="qK6Xwawspel4ECdae6aD-15">
           <mxGeometry y="60" width="310" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qK6Xwawspel4ECdae6aD-17" value="" style="group;fontSize=17;" vertex="1" connectable="0" parent="qK6Xwawspel4ECdae6aD-15">
@@ -1242,7 +1242,7 @@
         <mxCell id="FeMl48elRHK-YQiuXiv7-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/flipicons-vol-2-2/512/WeChat-128.png" vertex="1" parent="FeMl48elRHK-YQiuXiv7-5">
           <mxGeometry width="48" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="FeMl48elRHK-YQiuXiv7-6" value="Sports One" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
+        <mxCell id="FeMl48elRHK-YQiuXiv7-6" value="Sports One&lt;br&gt;&lt;a href=&quot;https://s1-dev.bsu.edu.cn/&quot; style=&quot;font-size: 12px ; text-align: left&quot;&gt;https://s1-dev.bsu.edu.cn/&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
           <mxGeometry x="85" y="440" width="375" height="60" as="geometry"/>
         </mxCell>
       </root>
