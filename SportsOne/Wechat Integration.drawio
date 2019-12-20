@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-20T07:42:48.365Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="gUF-ljdMfqahVO5N9k2f" version="12.4.3" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2019-12-20T07:44:13.991Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="PiMAEM4NZm8k37mP-szb" version="12.4.3" type="github" pages="8">
   <diagram id="Ty7VeFaSjmbMnnNTwiSE" name="overall">
     <mxGraphModel dx="1058" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1182,8 +1182,11 @@
       <root>
         <mxCell id="LFbkBpNkvyEO6I9I7DGO-0"/>
         <mxCell id="LFbkBpNkvyEO6I9I7DGO-1" parent="LFbkBpNkvyEO6I9I7DGO-0"/>
+        <mxCell id="FeMl48elRHK-YQiuXiv7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontSize=16;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
+          <mxGeometry x="80" y="-260" width="380.00000000000006" height="48" as="geometry"/>
+        </mxCell>
         <mxCell id="qK6Xwawspel4ECdae6aD-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;align=left;dashed=1;dashPattern=1 1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
-          <mxGeometry x="85" y="-160" width="380" height="540" as="geometry"/>
+          <mxGeometry x="85" y="-160" width="375" height="540" as="geometry"/>
         </mxCell>
         <mxCell id="qK6Xwawspel4ECdae6aD-10" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;http://10.36.54.90:8080&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;https://&lt;/span&gt;&lt;a href=&quot;https://36.110.142.16&quot; style=&quot;font-size: 10.5pt&quot;&gt;36.110.142.16&lt;/a&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin: 0in ; font-size: 10.5pt&quot; lang=&quot;en-US&quot;&gt;&lt;a href=&quot;https://s1-service-dev.bsu.edu.cn/&quot;&gt;https://s1-service-dev.bsu.edu.cn&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=top;align=left;horizontal=1;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
           <mxGeometry x="120" y="-40" width="310" height="60" as="geometry"/>
@@ -1230,14 +1233,14 @@
         <mxCell id="qK6Xwawspel4ECdae6aD-21" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
           <mxGeometry x="85" y="-160" width="62" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="FeMl48elRHK-YQiuXiv7-4" value="" style="group" vertex="1" connectable="0" parent="LFbkBpNkvyEO6I9I7DGO-1">
-          <mxGeometry x="85" y="-270" width="375" height="48" as="geometry"/>
+        <mxCell id="FeMl48elRHK-YQiuXiv7-5" value="" style="group" vertex="1" connectable="0" parent="LFbkBpNkvyEO6I9I7DGO-1">
+          <mxGeometry x="79.99666666666667" y="-260" width="380.00333333333333" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="FeMl48elRHK-YQiuXiv7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontSize=16;align=left;" vertex="1" parent="FeMl48elRHK-YQiuXiv7-4">
-          <mxGeometry width="375" height="48" as="geometry"/>
+        <mxCell id="FeMl48elRHK-YQiuXiv7-4" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="FeMl48elRHK-YQiuXiv7-5">
+          <mxGeometry x="0.0033333333333303017" width="380" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="FeMl48elRHK-YQiuXiv7-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/flipicons-vol-2-2/512/WeChat-128.png" vertex="1" parent="FeMl48elRHK-YQiuXiv7-4">
-          <mxGeometry x="2" width="48" height="48" as="geometry"/>
+        <mxCell id="FeMl48elRHK-YQiuXiv7-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/flipicons-vol-2-2/512/WeChat-128.png" vertex="1" parent="FeMl48elRHK-YQiuXiv7-5">
+          <mxGeometry width="48" height="48" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
