@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-20T07:39:34.447Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="10lLVOowo1rpohyVTng5" version="12.4.3" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2019-12-20T07:41:39.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="C1t1fWsz3ZjMPnerUBJR" version="12.4.3" type="github" pages="8">
   <diagram id="Ty7VeFaSjmbMnnNTwiSE" name="overall">
     <mxGraphModel dx="1058" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1229,6 +1229,15 @@
         </mxCell>
         <mxCell id="qK6Xwawspel4ECdae6aD-21" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
           <mxGeometry x="85" y="-160" width="62" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="FeMl48elRHK-YQiuXiv7-2" value="" style="group;dashed=1;" vertex="1" connectable="0" parent="LFbkBpNkvyEO6I9I7DGO-1">
+          <mxGeometry x="85" y="-330" width="385" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="FeMl48elRHK-YQiuXiv7-0" value="tst" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=16;verticalAlign=middle;arcSize=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="FeMl48elRHK-YQiuXiv7-2">
+          <mxGeometry width="385" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="FeMl48elRHK-YQiuXiv7-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/flipicons-vol-2-2/512/WeChat-128.png" vertex="1" parent="FeMl48elRHK-YQiuXiv7-2">
+          <mxGeometry x="2" y="2" width="48" height="48" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
