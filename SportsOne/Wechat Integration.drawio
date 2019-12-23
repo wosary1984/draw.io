@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-20T07:55:46.628Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="o3IVYZMlwf2uH7sTMEF1" version="12.4.3" type="github" pages="8">
+<mxfile host="www.draw.io" modified="2019-12-23T02:21:09.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="lyTXaxmEWKS7La47xGfg" version="12.4.3" type="github" pages="8">
   <diagram id="Ty7VeFaSjmbMnnNTwiSE" name="overall">
-    <mxGraphModel dx="1058" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1058" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -1177,73 +1177,136 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-qRTnfATrALI_NaClTQX" name="Page-8">
-    <mxGraphModel dx="1058" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="-qRTnfATrALI_NaClTQX" name="Infra">
+    <mxGraphModel dx="1058" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LFbkBpNkvyEO6I9I7DGO-0"/>
         <mxCell id="LFbkBpNkvyEO6I9I7DGO-1" parent="LFbkBpNkvyEO6I9I7DGO-0"/>
-        <mxCell id="FeMl48elRHK-YQiuXiv7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontSize=16;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
+        <mxCell id="FeMl48elRHK-YQiuXiv7-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontSize=16;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="LFbkBpNkvyEO6I9I7DGO-1" vertex="1">
           <mxGeometry x="80" y="-260" width="380.00000000000006" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;align=left;dashed=1;dashPattern=1 1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
+        <mxCell id="qK6Xwawspel4ECdae6aD-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;align=left;dashed=1;dashPattern=1 1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="LFbkBpNkvyEO6I9I7DGO-1" vertex="1">
           <mxGeometry x="85" y="-160" width="375" height="540" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-10" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;http://10.36.54.90:8080&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;https://&lt;/span&gt;&lt;a href=&quot;https://36.110.142.16&quot; style=&quot;font-size: 10.5pt&quot;&gt;36.110.142.16&lt;/a&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin: 0in ; font-size: 10.5pt&quot; lang=&quot;en-US&quot;&gt;&lt;a href=&quot;https://s1-service-dev.bsu.edu.cn/&quot;&gt;https://s1-service-dev.bsu.edu.cn&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=top;align=left;horizontal=1;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
+        <mxCell id="qK6Xwawspel4ECdae6aD-10" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;http://10.36.54.90:8080&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;https://&lt;/span&gt;&lt;a href=&quot;https://36.110.142.16&quot; style=&quot;font-size: 10.5pt&quot;&gt;36.110.142.16&lt;/a&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin: 0in ; font-size: 10.5pt&quot; lang=&quot;en-US&quot;&gt;&lt;a href=&quot;https://s1-service-dev.bsu.edu.cn/&quot;&gt;https://s1-service-dev.bsu.edu.cn&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=top;align=left;horizontal=1;" parent="LFbkBpNkvyEO6I9I7DGO-1" vertex="1">
           <mxGeometry x="120" y="-40" width="310" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-11" value="" style="group;fontSize=17;" vertex="1" connectable="0" parent="LFbkBpNkvyEO6I9I7DGO-1">
+        <mxCell id="qK6Xwawspel4ECdae6aD-11" value="" style="group;fontSize=17;" parent="LFbkBpNkvyEO6I9I7DGO-1" vertex="1" connectable="0">
           <mxGeometry x="120" y="-100" width="310" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-12" value="SGAS Service UI" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" vertex="1" parent="qK6Xwawspel4ECdae6aD-11">
+        <mxCell id="qK6Xwawspel4ECdae6aD-12" value="SGAS Service UI" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" parent="qK6Xwawspel4ECdae6aD-11" vertex="1">
           <mxGeometry width="310" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-13" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qK6Xwawspel4ECdae6aD-11">
+        <mxCell id="qK6Xwawspel4ECdae6aD-13" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qK6Xwawspel4ECdae6aD-11" vertex="1">
           <mxGeometry width="62" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-14" value="" style="group" vertex="1" connectable="0" parent="LFbkBpNkvyEO6I9I7DGO-1">
+        <mxCell id="qK6Xwawspel4ECdae6aD-14" value="" style="group" parent="LFbkBpNkvyEO6I9I7DGO-1" vertex="1" connectable="0">
           <mxGeometry x="120" y="70" width="310" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-4" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;http://10.36.54.90:8090/service&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin: 0in ; font-size: 10.5pt&quot; lang=&quot;en-US&quot;&gt;https://&lt;a href=&quot;https://36.110.142.16&quot;&gt;36.110.142.16&lt;/a&gt;/service&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-size: 10.5pt&quot; lang=&quot;en-US&quot;&gt;&lt;a href=&quot;https://s1-service-dev.bsu.edu.cn/&quot;&gt;https://s1-service-dev.bsu.edu.cn/&lt;/a&gt;service&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=top;align=left;horizontal=1;" vertex="1" parent="qK6Xwawspel4ECdae6aD-14">
+        <mxCell id="qK6Xwawspel4ECdae6aD-4" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;http://10.36.54.90:8090/service&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin: 0in ; font-size: 10.5pt&quot; lang=&quot;en-US&quot;&gt;https://&lt;a href=&quot;https://36.110.142.16&quot;&gt;36.110.142.16&lt;/a&gt;/service&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-size: 10.5pt&quot; lang=&quot;en-US&quot;&gt;&lt;a href=&quot;https://s1-service-dev.bsu.edu.cn/&quot;&gt;https://s1-service-dev.bsu.edu.cn/&lt;/a&gt;service&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=top;align=left;horizontal=1;" parent="qK6Xwawspel4ECdae6aD-14" vertex="1">
           <mxGeometry y="60" width="310" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-5" value="" style="group;fontSize=17;" vertex="1" connectable="0" parent="qK6Xwawspel4ECdae6aD-14">
+        <mxCell id="qK6Xwawspel4ECdae6aD-5" value="" style="group;fontSize=17;" parent="qK6Xwawspel4ECdae6aD-14" vertex="1" connectable="0">
           <mxGeometry width="310" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-0" value="SGAS Service" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" vertex="1" parent="qK6Xwawspel4ECdae6aD-5">
+        <mxCell id="qK6Xwawspel4ECdae6aD-0" value="SGAS Service" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" parent="qK6Xwawspel4ECdae6aD-5" vertex="1">
           <mxGeometry width="310" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-2" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qK6Xwawspel4ECdae6aD-5">
+        <mxCell id="qK6Xwawspel4ECdae6aD-2" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qK6Xwawspel4ECdae6aD-5" vertex="1">
           <mxGeometry width="62" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-15" value="" style="group" vertex="1" connectable="0" parent="LFbkBpNkvyEO6I9I7DGO-1">
+        <mxCell id="qK6Xwawspel4ECdae6aD-15" value="" style="group" parent="LFbkBpNkvyEO6I9I7DGO-1" vertex="1" connectable="0">
           <mxGeometry x="120" y="240" width="310" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-16" value="&lt;a href=&quot;https://s1-dev.bsu.edu.cn/&quot;&gt;https://s1-dev.bsu.edu.cn/&lt;/a&gt;&lt;span style=&quot;font-size: 10.5pt ; color: rgb(0 , 0 , 0)&quot;&gt;sap/haha/ide&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=top;align=left;horizontal=1;" vertex="1" parent="qK6Xwawspel4ECdae6aD-15">
+        <mxCell id="qK6Xwawspel4ECdae6aD-16" value="&lt;a href=&quot;https://s1-dev.bsu.edu.cn/&quot;&gt;https://s1-dev.bsu.edu.cn/&lt;/a&gt;&lt;span style=&quot;font-size: 10.5pt ; color: rgb(0 , 0 , 0)&quot;&gt;sap/haha/ide&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=top;align=left;horizontal=1;" parent="qK6Xwawspel4ECdae6aD-15" vertex="1">
           <mxGeometry y="60" width="310" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-17" value="" style="group;fontSize=17;" vertex="1" connectable="0" parent="qK6Xwawspel4ECdae6aD-15">
+        <mxCell id="qK6Xwawspel4ECdae6aD-17" value="" style="group;fontSize=17;" parent="qK6Xwawspel4ECdae6aD-15" vertex="1" connectable="0">
           <mxGeometry width="310" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-18" value="SGAS Service DB" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" vertex="1" parent="qK6Xwawspel4ECdae6aD-17">
+        <mxCell id="qK6Xwawspel4ECdae6aD-18" value="SGAS Service DB" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" parent="qK6Xwawspel4ECdae6aD-17" vertex="1">
           <mxGeometry width="310" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-19" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qK6Xwawspel4ECdae6aD-17">
+        <mxCell id="qK6Xwawspel4ECdae6aD-19" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qK6Xwawspel4ECdae6aD-17" vertex="1">
           <mxGeometry width="62" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="qK6Xwawspel4ECdae6aD-21" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
+        <mxCell id="qK6Xwawspel4ECdae6aD-21" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="LFbkBpNkvyEO6I9I7DGO-1" vertex="1">
           <mxGeometry x="85" y="-160" width="62" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="FeMl48elRHK-YQiuXiv7-5" value="" style="group" vertex="1" connectable="0" parent="LFbkBpNkvyEO6I9I7DGO-1">
+        <mxCell id="FeMl48elRHK-YQiuXiv7-5" value="" style="group" parent="LFbkBpNkvyEO6I9I7DGO-1" vertex="1" connectable="0">
           <mxGeometry x="79.99666666666667" y="-260" width="380.00333333333333" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="FeMl48elRHK-YQiuXiv7-4" value="测试" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="FeMl48elRHK-YQiuXiv7-5">
+        <mxCell id="FeMl48elRHK-YQiuXiv7-4" value="测试" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="FeMl48elRHK-YQiuXiv7-5" vertex="1" connectable="0">
           <mxGeometry x="0.0033333333333303017" width="380" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="FeMl48elRHK-YQiuXiv7-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/flipicons-vol-2-2/512/WeChat-128.png" vertex="1" parent="FeMl48elRHK-YQiuXiv7-5">
+        <mxCell id="FeMl48elRHK-YQiuXiv7-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/flipicons-vol-2-2/512/WeChat-128.png" parent="FeMl48elRHK-YQiuXiv7-5" vertex="1">
           <mxGeometry width="48" height="48" as="geometry"/>
         </mxCell>
-        <mxCell id="FeMl48elRHK-YQiuXiv7-6" value="Sports One&lt;br&gt;&lt;a href=&quot;https://s1-dev.bsu.edu.cn/&quot; style=&quot;font-size: 12px ; text-align: left&quot;&gt;https://s1-dev.bsu.edu.cn/&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
+        <mxCell id="FeMl48elRHK-YQiuXiv7-6" value="Sports One&lt;br&gt;&lt;a href=&quot;https://s1-dev.bsu.edu.cn/&quot; style=&quot;font-size: 12px ; text-align: left&quot;&gt;https://s1-dev.bsu.edu.cn/&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="LFbkBpNkvyEO6I9I7DGO-1" vertex="1">
           <mxGeometry x="85" y="440" width="375" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-0" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontSize=16;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
+          <mxGeometry x="540" y="-260" width="380.00000000000006" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;align=left;dashed=1;dashPattern=1 1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
+          <mxGeometry x="545" y="-160" width="375" height="540" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-2" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;http://10.36.54.90:8080&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;https://&lt;/span&gt;&lt;a href=&quot;https://36.110.142.16&quot; style=&quot;font-size: 10.5pt&quot;&gt;36.110.142.16&lt;/a&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin: 0in ; font-size: 10.5pt&quot; lang=&quot;en-US&quot;&gt;&lt;a href=&quot;https://s1-service-dev.bsu.edu.cn/&quot;&gt;https://s1-service-dev.bsu.edu.cn&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=top;align=left;horizontal=1;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
+          <mxGeometry x="580" y="-40" width="310" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-3" value="" style="group;fontSize=17;" vertex="1" connectable="0" parent="LFbkBpNkvyEO6I9I7DGO-1">
+          <mxGeometry x="580" y="-100" width="310" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-4" value="SGAS Service UI" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" vertex="1" parent="6OUaXSN2mQ1j8PQzrRx0-3">
+          <mxGeometry width="310" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-5" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6OUaXSN2mQ1j8PQzrRx0-3">
+          <mxGeometry width="62" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-6" value="" style="group" vertex="1" connectable="0" parent="LFbkBpNkvyEO6I9I7DGO-1">
+          <mxGeometry x="580" y="70" width="310" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-7" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;http://10.36.54.90:8090/service&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin: 0in ; font-size: 10.5pt&quot; lang=&quot;en-US&quot;&gt;https://&lt;a href=&quot;https://36.110.142.16&quot;&gt;36.110.142.16&lt;/a&gt;/service&lt;/p&gt;&lt;p style=&quot;margin: 0in ; font-size: 10.5pt&quot; lang=&quot;en-US&quot;&gt;&lt;a href=&quot;https://s1-service-dev.bsu.edu.cn/&quot;&gt;https://s1-service-dev.bsu.edu.cn/&lt;/a&gt;service&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=top;align=left;horizontal=1;" vertex="1" parent="6OUaXSN2mQ1j8PQzrRx0-6">
+          <mxGeometry y="60" width="310" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-8" value="" style="group;fontSize=17;" vertex="1" connectable="0" parent="6OUaXSN2mQ1j8PQzrRx0-6">
+          <mxGeometry width="310" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-9" value="SGAS Service" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" vertex="1" parent="6OUaXSN2mQ1j8PQzrRx0-8">
+          <mxGeometry width="310" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-10" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6OUaXSN2mQ1j8PQzrRx0-8">
+          <mxGeometry width="62" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-11" value="" style="group" vertex="1" connectable="0" parent="LFbkBpNkvyEO6I9I7DGO-1">
+          <mxGeometry x="580" y="240" width="310" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-12" value="&lt;a href=&quot;https://s1-dev.bsu.edu.cn/&quot;&gt;https://s1-dev.bsu.edu.cn/&lt;/a&gt;&lt;span style=&quot;font-size: 10.5pt ; color: rgb(0 , 0 , 0)&quot;&gt;sap/haha/ide&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;verticalAlign=top;align=left;horizontal=1;" vertex="1" parent="6OUaXSN2mQ1j8PQzrRx0-11">
+          <mxGeometry y="60" width="310" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-13" value="" style="group;fontSize=17;" vertex="1" connectable="0" parent="6OUaXSN2mQ1j8PQzrRx0-11">
+          <mxGeometry width="310" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-14" value="SGAS Service DB" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" vertex="1" parent="6OUaXSN2mQ1j8PQzrRx0-13">
+          <mxGeometry width="310" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-15" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6OUaXSN2mQ1j8PQzrRx0-13">
+          <mxGeometry width="62" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-16" value="DEV" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
+          <mxGeometry x="545" y="-160" width="62" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-17" value="" style="group" vertex="1" connectable="0" parent="LFbkBpNkvyEO6I9I7DGO-1">
+          <mxGeometry x="539.9966666666667" y="-260" width="380.00333333333333" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-18" value="测试" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="6OUaXSN2mQ1j8PQzrRx0-17">
+          <mxGeometry x="0.0033333333333303017" width="380" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/flipicons-vol-2-2/512/WeChat-128.png" vertex="1" parent="6OUaXSN2mQ1j8PQzrRx0-17">
+          <mxGeometry width="48" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="6OUaXSN2mQ1j8PQzrRx0-20" value="Sports One&lt;br&gt;&lt;a href=&quot;https://s1-dev.bsu.edu.cn/&quot; style=&quot;font-size: 12px ; text-align: left&quot;&gt;https://s1-dev.bsu.edu.cn/&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fontSize=16;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LFbkBpNkvyEO6I9I7DGO-1">
+          <mxGeometry x="545" y="440" width="375" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
